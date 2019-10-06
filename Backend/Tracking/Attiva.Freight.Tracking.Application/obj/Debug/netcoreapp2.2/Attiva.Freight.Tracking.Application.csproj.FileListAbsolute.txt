@@ -1,0 +1,14 @@
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Application.csprojAssemblyReference.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Application.csproj.CoreCompileInputs.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Application.AssemblyInfoInputs.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Application.AssemblyInfo.cs
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\bin\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Application.deps.json
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\bin\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Application.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\bin\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\bin\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Library.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\bin\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.pdb
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\bin\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Library.pdb
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Application.csproj.CopyComplete
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\bin\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Application.pdb
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Application.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Application\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Application.pdb

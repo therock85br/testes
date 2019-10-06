@@ -1,0 +1,29 @@
+.wrapper:nth-of-type(4) {
+    display: none !important;
+}
+
+[data-name="model"] {
+    display: none !important;
+}
+
+.opblock-body .opblock-section .opblock-section-header {
+    display: none !important;
+}
+
+.opblock-body .opblock-section.opblock-section-request-body .opblock-section-header {
+    display: flex !important;
+}
+
+
+.parameters-container {
+    display: none !important;
+}
+
+.info .main .link {
+    display: none !important;
+}
+
+
+.topbar {
+    display: none !important;
+}

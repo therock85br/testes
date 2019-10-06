@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Attiva.Freight.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Attiva.Freight.WebApi.Controllers.UserController.Post(Attiva.Freight.Authorization.Library.DTO.Access.CredentialsDTO,Attiva.Freight.WebApi.Configurations.SigningConfigurations,Attiva.Freight.WebApi.Configurations.TokenConfigurations,Microsoft.Extensions.Caching.Memory.IMemoryCache)">
+            <summary>
+            A partir de dados de autenticação fornecidos, retorna token de autorização para as rotas da API que fornecem dados de frete
+            </summary>
+            <remarks>
+            Necessário informar id do usuário e senha, ou refresh token obtido anteriormente 
+            </remarks>
+            <response code="200">Retorna o valor do token, refreh token e respectivos tempos de expiração em segundos</response>
+            <response code="400">Quando dados de autentição fornecidos erroneamente</response>
+        </member>
+        <member name="M:Attiva.Freight.WebApi.Controllers.UserController.ChangeSecretKey(System.String,Microsoft.Extensions.Caching.Memory.IMemoryCache)">
+            <summary>
+            Realiza alteração da senha do usuário da API.
+            </summary>
+            <remarks>
+            Necessário informar o valor da nova senha.
+            </remarks>
+            <response code="200">Alteração da senha realizada com sucesso</response>
+            <response code="400">Quando não informado o valor da nova senha</response>
+            <response code="401">Token não informado ou expirado</response>
+        </member>
+        <member name="M:NetPartners.IPVData.WebApi.Controllers.v1.RouteController.Post(Attiva.Freight.Tracking.Library.DTO.Route.RouteDTO)">
+            <summary>
+            Retorna a data\hora prevista de chegada do frete
+            </summary>
+            <remarks>
+            Obrigatório informar todos os campos.
+            </remarks>
+            <returns></returns>
+            <response code="200">Requisição atendida</response>
+            <response code="400">Quando não informado todos os campos</response>
+            <response code="401">Token não informado ou expirado</response>
+        </member>
+    </members>
+</doc>

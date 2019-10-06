@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Infrastructure\\Attiva.Freight.Authorization.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Domain\\Attiva.Freight.Authorization.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Domain\\Attiva.Freight.Authorization.Domain.csproj",
+        "projectName": "Attiva.Freight.Authorization.Domain",
+        "projectPath": "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Domain\\Attiva.Freight.Authorization.Domain.csproj",
+        "packagesPath": "C:\\Users\\renan.rocha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renan.rocha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Infrastructure\\Attiva.Freight.Authorization.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Infrastructure\\Attiva.Freight.Authorization.Infrastructure.csproj",
+        "projectName": "Attiva.Freight.Authorization.Infrastructure",
+        "projectPath": "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Infrastructure\\Attiva.Freight.Authorization.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\renan.rocha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renan.rocha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Domain\\Attiva.Freight.Authorization.Domain.csproj": {
+                "projectPath": "C:\\Users\\renan.rocha\\source\\repos\\Attiva.Freight\\Backend\\Authorization\\Attiva.Freight.Authorization.Domain\\Attiva.Freight.Authorization.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.19.30, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

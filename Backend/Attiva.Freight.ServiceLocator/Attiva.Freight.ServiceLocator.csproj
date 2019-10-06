@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Authorization\Attiva.Freight.Authorization.Application\Attiva.Freight.Authorization.Application.csproj" />
+    <ProjectReference Include="..\Authorization\Attiva.Freight.Authorization.Domain\Attiva.Freight.Authorization.Domain.csproj" />
+    <ProjectReference Include="..\Authorization\Attiva.Freight.Authorization.Infrastructure\Attiva.Freight.Authorization.Infrastructure.csproj" />
+    <ProjectReference Include="..\Tracking\Attiva.Freight.Tracking.Application\Attiva.Freight.Tracking.Application.csproj" />
+    <ProjectReference Include="..\Tracking\Attiva.Freight.Tracking.Domain\Attiva.Freight.Tracking.Domain.csproj" />
+    <ProjectReference Include="..\Tracking\Attiva.Freight.Tracking.Infrastructure\Attiva.Freight.Tracking.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

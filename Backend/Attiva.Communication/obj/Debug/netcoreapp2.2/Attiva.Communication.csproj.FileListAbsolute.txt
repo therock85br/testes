@@ -1,0 +1,9 @@
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Attiva.Communication\bin\Debug\netcoreapp2.2\Attiva.Communication.deps.json
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Attiva.Communication\bin\Debug\netcoreapp2.2\Attiva.Communication.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Attiva.Communication\bin\Debug\netcoreapp2.2\Attiva.Communication.pdb
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Attiva.Communication\obj\Debug\netcoreapp2.2\Attiva.Communication.csproj.CoreCompileInputs.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Attiva.Communication\obj\Debug\netcoreapp2.2\Attiva.Communication.AssemblyInfoInputs.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Attiva.Communication\obj\Debug\netcoreapp2.2\Attiva.Communication.AssemblyInfo.cs
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Attiva.Communication\obj\Debug\netcoreapp2.2\Attiva.Communication.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Attiva.Communication\obj\Debug\netcoreapp2.2\Attiva.Communication.pdb
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Attiva.Communication\obj\Debug\netcoreapp2.2\Attiva.Communication.csprojAssemblyReference.cache

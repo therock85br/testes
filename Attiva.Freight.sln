@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Freight.WebApi", "Attiva.Freight.WebApi\Attiva.Freight.WebApi.csproj", "{89B1F545-254A-4C38-8B16-6B01ABBB8F2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{24524947-4712-4147-933C-27228A1120FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authorization", "Authorization", "{793C0029-6451-493A-A27C-9429FA4C6A0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Freight.Authorization.Domain", "Backend\Authorization\Attiva.Freight.Authorization.Domain\Attiva.Freight.Authorization.Domain.csproj", "{333EEC2B-5EB4-4F39-99B5-F624AE0DC817}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Freight.Authorization.Infrastructure", "Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\Attiva.Freight.Authorization.Infrastructure.csproj", "{898D23ED-B926-4A3D-8C95-4479BE6E0BF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Freight.Authorization.Library", "Backend\Authorization\Attiva.Freight.Authorization.Library\Attiva.Freight.Authorization.Library.csproj", "{0DDAA52E-38EB-4AE0-AF90-4F765C900DE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Freight.Authorization.Application", "Backend\Authorization\Attiva.Freight.Authorization.Application\Attiva.Freight.Authorization.Application.csproj", "{3BC36DCE-6B5D-4282-9A1C-5776A515CD10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Communication", "Backend\Attiva.Communication\Attiva.Communication.csproj", "{9B691F91-A711-4022-B268-FDF6925DDF26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Freight.ServiceLocator", "Backend\Attiva.Freight.ServiceLocator\Attiva.Freight.ServiceLocator.csproj", "{FD9D96DC-8CEB-4CD2-87F2-CD317F4746B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tracking", "Tracking", "{0CB9BD35-302E-4C77-B5A4-80F469B0627C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Freight.Tracking.Domain", "Backend\Tracking\Attiva.Freight.Tracking.Domain\Attiva.Freight.Tracking.Domain.csproj", "{84FDB2A5-D0FF-4B9D-850F-41E0F8D637D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Freight.Tracking.Infrastructure", "Backend\Tracking\Attiva.Freight.Tracking.Infrastructure\Attiva.Freight.Tracking.Infrastructure.csproj", "{EB436016-B73B-4B56-A2EC-476E89364A9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Freight.Tracking.Library", "Backend\Tracking\Attiva.Freight.Tracking.Library\Attiva.Freight.Tracking.Library.csproj", "{C8B83964-85C3-4E5D-B3A9-B4D278697311}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attiva.Freight.Tracking.Application", "Backend\Tracking\Attiva.Freight.Tracking.Application\Attiva.Freight.Tracking.Application.csproj", "{D7C01AEB-029B-4007-9E68-0B9EE8C93065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B1F545-254A-4C38-8B16-6B01ABBB8F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B1F545-254A-4C38-8B16-6B01ABBB8F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B1F545-254A-4C38-8B16-6B01ABBB8F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B1F545-254A-4C38-8B16-6B01ABBB8F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333EEC2B-5EB4-4F39-99B5-F624AE0DC817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333EEC2B-5EB4-4F39-99B5-F624AE0DC817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333EEC2B-5EB4-4F39-99B5-F624AE0DC817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333EEC2B-5EB4-4F39-99B5-F624AE0DC817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898D23ED-B926-4A3D-8C95-4479BE6E0BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898D23ED-B926-4A3D-8C95-4479BE6E0BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898D23ED-B926-4A3D-8C95-4479BE6E0BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898D23ED-B926-4A3D-8C95-4479BE6E0BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDAA52E-38EB-4AE0-AF90-4F765C900DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDAA52E-38EB-4AE0-AF90-4F765C900DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDAA52E-38EB-4AE0-AF90-4F765C900DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDAA52E-38EB-4AE0-AF90-4F765C900DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC36DCE-6B5D-4282-9A1C-5776A515CD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC36DCE-6B5D-4282-9A1C-5776A515CD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC36DCE-6B5D-4282-9A1C-5776A515CD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC36DCE-6B5D-4282-9A1C-5776A515CD10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B691F91-A711-4022-B268-FDF6925DDF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B691F91-A711-4022-B268-FDF6925DDF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B691F91-A711-4022-B268-FDF6925DDF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B691F91-A711-4022-B268-FDF6925DDF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9D96DC-8CEB-4CD2-87F2-CD317F4746B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9D96DC-8CEB-4CD2-87F2-CD317F4746B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9D96DC-8CEB-4CD2-87F2-CD317F4746B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9D96DC-8CEB-4CD2-87F2-CD317F4746B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FDB2A5-D0FF-4B9D-850F-41E0F8D637D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FDB2A5-D0FF-4B9D-850F-41E0F8D637D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FDB2A5-D0FF-4B9D-850F-41E0F8D637D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FDB2A5-D0FF-4B9D-850F-41E0F8D637D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB436016-B73B-4B56-A2EC-476E89364A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB436016-B73B-4B56-A2EC-476E89364A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB436016-B73B-4B56-A2EC-476E89364A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB436016-B73B-4B56-A2EC-476E89364A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B83964-85C3-4E5D-B3A9-B4D278697311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B83964-85C3-4E5D-B3A9-B4D278697311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B83964-85C3-4E5D-B3A9-B4D278697311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B83964-85C3-4E5D-B3A9-B4D278697311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C01AEB-029B-4007-9E68-0B9EE8C93065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C01AEB-029B-4007-9E68-0B9EE8C93065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C01AEB-029B-4007-9E68-0B9EE8C93065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C01AEB-029B-4007-9E68-0B9EE8C93065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{793C0029-6451-493A-A27C-9429FA4C6A0F} = {24524947-4712-4147-933C-27228A1120FF}
+		{333EEC2B-5EB4-4F39-99B5-F624AE0DC817} = {793C0029-6451-493A-A27C-9429FA4C6A0F}
+		{898D23ED-B926-4A3D-8C95-4479BE6E0BF0} = {793C0029-6451-493A-A27C-9429FA4C6A0F}
+		{0DDAA52E-38EB-4AE0-AF90-4F765C900DE2} = {793C0029-6451-493A-A27C-9429FA4C6A0F}
+		{3BC36DCE-6B5D-4282-9A1C-5776A515CD10} = {793C0029-6451-493A-A27C-9429FA4C6A0F}
+		{9B691F91-A711-4022-B268-FDF6925DDF26} = {24524947-4712-4147-933C-27228A1120FF}
+		{0CB9BD35-302E-4C77-B5A4-80F469B0627C} = {24524947-4712-4147-933C-27228A1120FF}
+		{84FDB2A5-D0FF-4B9D-850F-41E0F8D637D9} = {0CB9BD35-302E-4C77-B5A4-80F469B0627C}
+		{EB436016-B73B-4B56-A2EC-476E89364A9C} = {0CB9BD35-302E-4C77-B5A4-80F469B0627C}
+		{C8B83964-85C3-4E5D-B3A9-B4D278697311} = {0CB9BD35-302E-4C77-B5A4-80F469B0627C}
+		{D7C01AEB-029B-4007-9E68-0B9EE8C93065} = {0CB9BD35-302E-4C77-B5A4-80F469B0627C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {515F51F5-99D2-4E4D-A790-A855D98B14E7}
+	EndGlobalSection
+EndGlobal

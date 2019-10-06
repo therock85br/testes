@@ -1,0 +1,9 @@
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Domain\bin\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.deps.json
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Domain\bin\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Domain\bin\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.pdb
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Domain\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.csprojAssemblyReference.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Domain\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Domain\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.AssemblyInfoInputs.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Domain\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.AssemblyInfo.cs
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Domain\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Tracking\Attiva.Freight.Tracking.Domain\obj\Debug\netcoreapp2.2\Attiva.Freight.Tracking.Domain.pdb

@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\renan.rocha\source\repos\Attiva.Freight\Attiva.Freight.WebApi\Attiva.Freight.WebApi.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Backend\Attiva.Communication\Attiva.Communication.csproj" />
+    <ProjectReference Include="..\Backend\Attiva.Freight.ServiceLocator\Attiva.Freight.ServiceLocator.csproj" />
+    <ProjectReference Include="..\Backend\Authorization\Attiva.Freight.Authorization.Library\Attiva.Freight.Authorization.Library.csproj" />
+    <ProjectReference Include="..\Backend\Tracking\Attiva.Freight.Tracking.Library\Attiva.Freight.Tracking.Library.csproj" />
+  </ItemGroup>
+
+</Project>

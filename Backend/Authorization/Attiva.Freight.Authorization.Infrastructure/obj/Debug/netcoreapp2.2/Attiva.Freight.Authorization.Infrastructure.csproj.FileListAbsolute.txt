@@ -1,0 +1,12 @@
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\bin\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Infrastructure.deps.json
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\bin\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Infrastructure.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\bin\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Infrastructure.pdb
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\bin\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Domain.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\bin\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Domain.pdb
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Infrastructure.csprojAssemblyReference.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Infrastructure.AssemblyInfo.cs
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Infrastructure.csproj.CopyComplete
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Infrastructure.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Infrastructure\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Infrastructure.pdb

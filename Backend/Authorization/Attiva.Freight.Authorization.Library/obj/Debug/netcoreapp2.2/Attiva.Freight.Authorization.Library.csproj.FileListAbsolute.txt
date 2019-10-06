@@ -1,0 +1,9 @@
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Library\bin\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Library.deps.json
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Library\bin\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Library.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Library\bin\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Library.pdb
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Library\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Library.csprojAssemblyReference.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Library\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Library.csproj.CoreCompileInputs.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Library\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Library.AssemblyInfoInputs.cache
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Library\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Library.AssemblyInfo.cs
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Library\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Library.dll
+C:\Users\renan.rocha\source\repos\Attiva.Freight\Backend\Authorization\Attiva.Freight.Authorization.Library\obj\Debug\netcoreapp2.2\Attiva.Freight.Authorization.Library.pdb
